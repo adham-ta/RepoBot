@@ -1,11 +1,48 @@
-<p align="center">
-  <a href="https://probot.github.io"><img src="/static/robot.svg" width="160" alt="Probot's logo, a cartoon robot" /></a>
-</p>
-<h3 align="center"><a href="https://probot.github.io">Probot</a></h3>
-<p align="center">A framework for building GitHub Apps to automate and improve your workflow<p>
-<p align="center"><a href="https://npmjs.com/package/probot"><img src="https://badgen.net/npm/v/probot" alt="npm"></a> <a href="https://github.com/probot/probot/actions?query=workflow%3ACI"><img src="https://github.com/probot/probot/workflows/CI/badge.svg" alt="Build Status"></a> <a href="https://codecov.io/gh/probot/probot/"><img src="https://badgen.now.sh/codecov/c/github/probot/probot" alt="Codecov"></a> <a href="https://twitter.com/ProbotTheRobot"><img src="https://img.shields.io/twitter/follow/ProbotTheRobot.svg?style=social&logo=twitter&label=Follow" alt="@ProbotTheRobot on Twitter"></a>
+ **BotInto**!✨✅
 
----
+AddBot: https://0i.is/PMD2
+
+PayPal : https://www.paypal.me/adham65
+
+Docs : https://docswork.wordpress.com/
+
+Server Support : https://discord.io/repubot-su
+
+Web site : https://reponewse.wordpress.com/
+
+WebShoo : https://discord.io/repubot-sh
+
+Twitter : https://twitter.com/RepobotT
+
+Facebook : https://www.facebook.com/RepoBot
+
+Medium : https://timytf.medium.com 
+
+Chaino : https://www.chaino.com/RepoBot
+
+Github : https://github.com/adham-ta/
+
+Reddit : https://www.reddit.com/u/RepoBot-Taem
+
+Slack : https://repobotgroup.slack.com
+
+Financial support : 
+
+1- :
+
+https://www.buymeacoffee.com/repobot
+
+2- 
+
+https://patreon.com/repobot
+
+Email Support : timytf@yandex.com ( الحالي) (Current) 
+
+**Soon**📢
+
+@everyone @here
+
+
 
 If you've ever thought, "wouldn't it be cool if GitHub could…"; I'm going to stop you right there. Most features can actually be added via [GitHub Apps](https://docs.github.com/en/developers/apps), which extend GitHub and can be installed directly on organizations and user accounts and granted access to specific repositories. They come with granular permissions and built-in webhooks. Apps are first class actors within GitHub.
 
